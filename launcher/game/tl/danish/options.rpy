@@ -18,7 +18,7 @@
 
     # gui/game/options.rpy:15
     old "## The _() surrounding the string marks it as eligible for translation."
-    new "## Tegnene _(), der omringer strengen, markerer det som kvalificeret til oversættelse."
+    new "## Tegnene _(), der omringer tekststrengen, markerer den som kvalificeret til oversættelse."
 
     # gui/game/options.rpy:17
     old "Ren'Py 7 Default GUI"
@@ -26,7 +26,7 @@
 
     # gui/game/options.rpy:20
     old "## Determines if the title given above is shown on the main menu screen. Set this to False to hide the title."
-    new "## Bestemmer, om den ovenfor givne titel vises på hovedmenuskærmen. Stil dette til False for at skjule title."
+    new "## Bestemmer, om den ovenfor givne titel vises på hovedmenuskærmen. Stil dette til False for at skjule titlen."
 
     # gui/game/options.rpy:26
     old "## The version of the game."
@@ -38,7 +38,7 @@
 
     # gui/game/options.rpy:38
     old "## A short name for the game used for executables and directories in the built distribution. This must be ASCII-only, and must not contain spaces, colons, or semicolons."
-    new "## Et kort navn til spillet, der bruges til ekskverbare filer og mapper i den fremstillede distribution. Dette må kun være ASCII, og det må ikke indeholde mellemrum, koloner eller semikoloner."
+    new "## Et kort navn til spillet, der bruges til eksekverbare filer og mapper i den fremstillede distribution. Dette må kun være ASCII, og det må ikke indeholde mellemrum, koloner eller semikoloner."
 
     # gui/game/options.rpy:45
     old "## Sounds and music"
@@ -46,7 +46,7 @@
 
     # gui/game/options.rpy:47
     old "## These three variables control, among other things, which mixers are shown to the player by default. Setting one of these to False will hide the appropriate mixer."
-    new "## Disse tre variabler kontrollerer blandt andet, hvilke mixere der vises til spilleren som standard. Ved at stille en af disse til False skjules den tilsvarende mixer."
+    new "## Disse tre variable kontrollerer blandt andet, hvilke mixere der vises til spilleren som standard. Ved at stille en af disse til False skjules den tilsvarende mixer."
 
     # gui/game/options.rpy:56
     old "## To allow the user to play a test sound on the sound or voice channel, uncomment a line below and use it to set a sample sound to play."
@@ -54,7 +54,7 @@
 
     # gui/game/options.rpy:63
     old "## Uncomment the following line to set an audio file that will be played while the player is at the main menu. This file will continue playing into the game, until it is stopped or another file is played."
-    new "## Afkommenter følgende linje for at angive en lydfil, der afspilles, mens spilleren er i hovedmenuen. Denne fil fortsætter med at afspille inde i spillet, indtil den stoppes, eller en anden fil afspilles."
+    new "## Afkommenter følgende linje for at angive en lydfil, der afspilles, mens spilleren er i hovedmenuen. Denne fil fortsætter med at afspille ved indgang ind i spillet, indtil den stoppes, eller en anden fil afspilles."
 
     # gui/game/options.rpy:70
     old "## Transitions"
@@ -134,7 +134,7 @@
 
     # gui/game/options.rpy:146
     old "## This generally should not be changed, and if it is, should always be a literal string, not an expression."
-    new "## Dette bør generelt ikke ændres, og hvis det bliver, bør det altid være en litteral streng, ikke et udtryk."
+    new "## Dette bør generelt ikke ændres, og hvis det bliver, bør det altid være en litteral tekststreng, ikke et udtryk."
 
     # gui/game/options.rpy:152
     old "## Icon"
@@ -194,5 +194,5 @@
 
     # gui/game/options.rpy:210
     old "## The username and project name associated with an itch.io project, separated by a slash."
-    new "## Brugernavnet og projektnavnen forbundet med et itch.io-projekt, adskilt med en skåstreg."
+    new "## Brugernavnet og projektnavnen forbundet med et itch.io-projekt, adskilt med en skråstreg."
 
